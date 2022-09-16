@@ -1,0 +1,14 @@
+person
+traffic light
+fire hydrant
+equipt
+parking meter
+backpack
+umbrella
+handbag
+laptop
+mouse
+remote
+keyboard
+cell phone
+microwave
